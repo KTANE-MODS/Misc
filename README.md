@@ -1,0 +1,1 @@
+This repo is for archiving KTANE modules that don't have their source code available. It won't include modules that are too similar to the vanilla ones to avoid piracy. Since the main goal is to help with souvenir implementation, usually only the scripts will be archived. Other assets will be added if needed.
